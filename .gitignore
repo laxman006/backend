@@ -11,8 +11,7 @@ yarn-error.log*
 # Environment variables
 .env
 # Ignore all files in the root directory except the ones explicitly tracked
-/*
-!.gitignore
+
 # Build output
 dist/
 build/
